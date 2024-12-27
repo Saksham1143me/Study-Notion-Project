@@ -1,0 +1,967 @@
+[
+  {
+    "country": "India",
+    "length": "10",
+    "code": "+91"
+  },
+  {
+    "country": "Afghanistan",
+    "length": "9",
+    "code": "+93"
+  },
+  {
+    "country": "Albania",
+    "length": "9",
+    "code": "+355"
+  },
+  {
+    "country": "Algeria",
+    "length": "9",
+    "code": "+213"
+  },
+  {
+    "country": "Andorra",
+    "length": "6",
+    "code": "+376"
+  },
+  {
+    "country": "Angola",
+    "length": "9",
+    "code": "+244"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "length": "7",
+    "code": "+1-268"
+  },
+  {
+    "country": "Argentina",
+    "length": "10",
+    "code": "+54"
+  },
+  {
+    "country": "Armenia",
+    "length": "8",
+    "code": "+374"
+  },
+  {
+    "country": "Australia",
+    "length": "9",
+    "code": "+61"
+  },
+  {
+    "country": "Austria",
+    "length": "10",
+    "code": "+43"
+  },
+  {
+    "country": "Azerbaijan",
+    "length": "9",
+    "code": "+994"
+  },
+  {
+    "country": "Bahamas",
+    "length": "7",
+    "code": "+1-242"
+  },
+  {
+    "country": "Bahrain",
+    "length": "8",
+    "code": "+973"
+  },
+  {
+    "country": "Bangladesh",
+    "length": "10",
+    "code": "+880"
+  },
+  {
+    "country": "Barbados",
+    "length": "7",
+    "code": "+1-246"
+  },
+  {
+    "country": "Belarus",
+    "length": "9",
+    "code": "+375"
+  },
+  {
+    "country": "Belgium",
+    "length": "9",
+    "code": "+32"
+  },
+  {
+    "country": "Belize",
+    "length": "8",
+    "code": "+501"
+  },
+  {
+    "country": "Benin",
+    "length": "8",
+    "code": "+229"
+  },
+  {
+    "country": "Bhutan",
+    "length": "8",
+    "code": "+975"
+  },
+  {
+    "country": "Bolivia",
+    "length": "8",
+    "code": "+591"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "length": "8",
+    "code": "+387"
+  },
+  {
+    "country": "Botswana",
+    "length": "8",
+    "code": "+267"
+  },
+  {
+    "country": "Brazil",
+    "length": "10",
+    "code": "+55"
+  },
+  {
+    "country": "Brunei",
+    "length": "7",
+    "code": "+673"
+  },
+  {
+    "country": "Bulgaria",
+    "length": "9",
+    "code": "+359"
+  },
+  {
+    "country": "Burkina Faso",
+    "length": "8",
+    "code": "+226"
+  },
+  {
+    "country": "Burundi",
+    "length": "8",
+    "code": "+257"
+  },
+  {
+    "country": "Cambodia",
+    "length": "9",
+    "code": "+855"
+  },
+  {
+    "country": "Cameroon",
+    "length": "8",
+    "code": "+237"
+  },
+  {
+    "country": "Canada",
+    "length": "10",
+    "code": "+1"
+  },
+  {
+    "country": "Cape Verde",
+    "length": "7",
+    "code": "+238"
+  },
+  {
+    "country": "Central African Republic",
+    "length": "8",
+    "code": "+236"
+  },
+  {
+    "country": "Chad",
+    "length": "8",
+    "code": "+235"
+  },
+  {
+    "country": "Chile",
+    "length": "9",
+    "code": "+56"
+  },
+  {
+    "country": "China",
+    "length": "11",
+    "code": "+86"
+  },
+  {
+    "country": "Colombia",
+    "length": "10",
+    "code": "+57"
+  },
+  {
+    "country": "Comoros",
+    "length": "9",
+    "code": "+269"
+  },
+  {
+    "country": "Congo",
+    "length": "8",
+    "code": "+242"
+  },
+  {
+    "country": "Costa Rica",
+    "length": "8",
+    "code": "+506"
+  },
+  {
+    "country": "Croatia",
+    "length": "9",
+    "code": "+385"
+  },
+  {
+    "country": "Cuba",
+    "length": "8",
+    "code": "+53"
+  },
+  {
+    "country": "Cyprus",
+    "length": "8",
+    "code": "+357"
+  },
+  {
+    "country": "Czech Republic",
+    "length": "9",
+    "code": "+420"
+  },
+  {
+    "country": "Denmark",
+    "length": "8",
+    "code": "+45"
+  },
+  {
+    "country": "Djibouti",
+    "length": "7",
+    "code": "+253"
+  },
+  {
+    "country": "Dominica",
+    "length": "7",
+    "code": "+1-767"
+  },
+  {
+    "country": "Dominican Republic",
+    "length": "10",
+    "code": "+1-809, +1-829, +1-849"
+  },
+  {
+    "country": "East Timor",
+    "length": "7",
+    "code": "+670"
+  },
+  {
+    "country": "Ecuador",
+    "length": "9",
+    "code": "+593"
+  },
+  {
+    "country": "Egypt",
+    "length": "10",
+    "code": "+20"
+  },
+  {
+    "country": "El Salvador",
+    "length": "8",
+    "code": "+503"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "length": "8",
+    "code": "+240"
+  },
+  {
+    "country": "Eritrea",
+    "length": "7",
+    "code": "+291"
+  },
+  {
+    "country": "Estonia",
+    "length": "8",
+    "code": "+372"
+  },
+  {
+    "country": "Ethiopia",
+    "length": "9",
+    "code": "+251"
+  },
+  {
+    "country": "Fiji",
+    "length": "7",
+    "code": "+679"
+  },
+  {
+    "country": "Finland",
+    "length": "8",
+    "code": "+358"
+  },
+  {
+    "country": "France",
+    "length": "9",
+    "code": "+33"
+  },
+  {
+    "country": "Gabon",
+    "length": "8",
+    "code": "+241"
+  },
+  {
+    "country": "Gambia",
+    "length": "7",
+    "code": "+220"
+  },
+  {
+    "country": "Georgia",
+    "length": "9",
+    "code": "+995"
+  },
+  {
+    "country": "Germany",
+    "length": "10",
+    "code": "+49"
+  },
+  {
+    "country": "Ghana",
+    "length": "9",
+    "code": "+233"
+  },
+  {
+    "country": "Greece",
+    "length": "10",
+    "code": "+30"
+  },
+  {
+    "country": "Grenada",
+    "length": "7",
+    "code": "+1-473"
+  },
+  {
+    "country": "Guatemala",
+    "length": "8",
+    "code": "+502"
+  },
+  {
+    "country": "Guinea",
+    "length": "9",
+    "code": "+224"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "length": "8",
+    "code": "+245"
+  },
+  {
+    "country": "Guyana",
+    "length": "9",
+    "code": "+592"
+  },
+  {
+    "country": "Haiti",
+    "length": "8",
+    "code": "+509"
+  },
+  {
+    "country": "Honduras",
+    "length": "8",
+    "code": "+504"
+  },
+  {
+    "country": "Hungary",
+    "length": "9",
+    "code": "+36"
+  },
+  {
+    "country": "Iceland",
+    "length": "8",
+    "code": "+354"
+  },
+  {
+    "country": "Indonesia",
+    "length": "9",
+    "code": "+62"
+  },
+  {
+    "country": "Iran",
+    "length": "10",
+    "code": "+98"
+  },
+  {
+    "country": "Iraq",
+    "length": "9",
+    "code": "+964"
+  },
+  {
+    "country": "Ireland",
+    "length": "9",
+    "code": "+353"
+  },
+  {
+    "country": "Israel",
+    "length": "9",
+    "code": "+972"
+  },
+  {
+    "country": "Italy",
+    "length": "9",
+    "code": "+39"
+  },
+  {
+    "country": "Jamaica",
+    "length": "7",
+    "code": "+1-876"
+  },
+  {
+    "country": "Japan",
+    "length": "10",
+    "code": "+81"
+  },
+  {
+    "country": "Jordan",
+    "length": "9",
+    "code": "+962"
+  },
+  {
+    "country": "Kazakhstan",
+    "length": "10",
+    "code": "+7"
+  },
+  {
+    "country": "Kenya",
+    "length": "9",
+    "code": "+254"
+  },
+  {
+    "country": "Kiribati",
+    "length": "7",
+    "code": "+686"
+  },
+  {
+    "country": "Korea, North",
+    "length": "9",
+    "code": "+850"
+  },
+  {
+    "country": "Korea, South",
+    "length": "10",
+    "code": "+82"
+  },
+  {
+    "country": "Kuwait",
+    "length": "8",
+    "code": "+965"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "length": "9",
+    "code": "+996"
+  },
+  {
+    "country": "Laos",
+    "length": "8",
+    "code": "+856"
+  },
+  {
+    "country": "Latvia",
+    "length": "8",
+    "code": "+371"
+  },
+  {
+    "country": "Lebanon",
+    "length": "8",
+    "code": "+961"
+  },
+  {
+    "country": "Lesotho",
+    "length": "8",
+    "code": "+266"
+  },
+  {
+    "country": "Liberia",
+    "length": "8",
+    "code": "+231"
+  },
+  {
+    "country": "Libya",
+    "length": "9",
+    "code": "+218"
+  },
+  {
+    "country": "Liechtenstein",
+    "length": "7",
+    "code": "+423"
+  },
+  {
+    "country": "Lithuania",
+    "length": "8",
+    "code": "+370"
+  },
+  {
+    "country": "Luxembourg",
+    "length": "8",
+    "code": "+352"
+  },
+  {
+    "country": "Madagascar",
+    "length": "9",
+    "code": "+261"
+  },
+  {
+    "country": "Malawi",
+    "length": "9",
+    "code": "+265"
+  },
+  {
+    "country": "Malaysia",
+    "length": "9",
+    "code": "+60"
+  },
+  {
+    "country": "Maldives",
+    "length": "7",
+    "code": "+960"
+  },
+  {
+    "country": "Mali",
+    "length": "8",
+    "code": "+223"
+  },
+  {
+    "country": "Malta",
+    "length": "8",
+    "code": "+356"
+  },
+  {
+    "country": "Marshall Islands",
+    "length": "7",
+    "code": "+692"
+  },
+  {
+    "country": "Mauritania",
+    "length": "8",
+    "code": "+222"
+  },
+  {
+    "country": "Mauritius",
+    "length": "8",
+    "code": "+230"
+  },
+  {
+    "country": "Mexico",
+    "length": "10",
+    "code": "+52"
+  },
+  {
+    "country": "Micronesia",
+    "length": "7",
+    "code": "+691"
+  },
+  {
+    "country": "Moldova",
+    "length": "8",
+    "code": "+373"
+  },
+  {
+    "country": "Monaco",
+    "length": "8",
+    "code": "+377"
+  },
+  {
+    "country": "Mongolia",
+    "length": "8",
+    "code": "+976"
+  },
+  {
+    "country": "Montenegro",
+    "length": "8",
+    "code": "+382"
+  },
+  {
+    "country": "Morocco",
+    "length": "9",
+    "code": "+212"
+  },
+  {
+    "country": "Mozambique",
+    "length": "9",
+    "code": "+258"
+  },
+  {
+    "country": "Myanmar",
+    "length": "9",
+    "code": "+95"
+  },
+  {
+    "country": "Namibia",
+    "length": "8",
+    "code": "+264"
+  },
+  {
+    "country": "Nauru",
+    "length": "7",
+    "code": "+674"
+  },
+  {
+    "country": "Nepal",
+    "length": "10",
+    "code": "+977"
+  },
+  {
+    "country": "Netherlands",
+    "length": "9",
+    "code": "+31"
+  },
+  {
+    "country": "New Zealand",
+    "length": "9",
+    "code": "+64"
+  },
+  {
+    "country": "Nicaragua",
+    "length": "8",
+    "code": "+505"
+  },
+  {
+    "country": "Niger",
+    "length": "8",
+    "code": "+227"
+  },
+  {
+    "country": "Nigeria",
+    "length": "10",
+    "code": "+234"
+  },
+  {
+    "country": "North Macedonia",
+    "length": "8",
+    "code": "+389"
+  },
+  {
+    "country": "Norway",
+    "length": "8",
+    "code": "+47"
+  },
+  {
+    "country": "Oman",
+    "length": "8",
+    "code": "+968"
+  },
+  {
+    "country": "Pakistan",
+    "length": "10",
+    "code": "+92"
+  },
+  {
+    "country": "Palau",
+    "length": "7",
+    "code": "+680"
+  },
+  {
+    "country": "Panama",
+    "length": "8",
+    "code": "+507"
+  },
+  {
+    "country": "Papua New Guinea",
+    "length": "8",
+    "code": "+675"
+  },
+  {
+    "country": "Paraguay",
+    "length": "9",
+    "code": "+595"
+  },
+  {
+    "country": "Peru",
+    "length": "9",
+    "code": "+51"
+  },
+  {
+    "country": "Philippines",
+    "length": "10",
+    "code": "+63"
+  },
+  {
+    "country": "Poland",
+    "length": "9",
+    "code": "+48"
+  },
+  {
+    "country": "Portugal",
+    "length": "9",
+    "code": "+351"
+  },
+  {
+    "country": "Qatar",
+    "length": "8",
+    "code": "+974"
+  },
+  {
+    "country": "Romania",
+    "length": "9",
+    "code": "+40"
+  },
+    {
+      "country": "Russia",
+      "length": "11",
+      "code": "+7"
+    },
+    {
+      "country": "Rwanda",
+      "length": "8",
+      "code": "+250"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "length": "7",
+      "code": "+1-869"
+    },
+    {
+      "country": "Saint Lucia",
+      "length": "7",
+      "code": "+1-758"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "length": "7",
+      "code": "+1-784"
+    },
+    {
+      "country": "Samoa",
+      "length": "7",
+      "code": "+685"
+    },
+    {
+      "country": "San Marino",
+      "length": "7",
+      "code": "+378"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "length": "8",
+      "code": "+239"
+    },
+    {
+      "country": "Saudi Arabia",
+      "length": "9",
+      "code": "+966"
+    },
+    {
+      "country": "Senegal",
+      "length": "8",
+      "code": "+221"
+    },
+    {
+      "country": "Serbia",
+      "length": "8",
+      "code": "+381"
+    },
+    {
+      "country": "Seychelles",
+      "length": "7",
+      "code": "+248"
+    },
+    {
+      "country": "Sierra Leone",
+      "length": "8",
+      "code": "+232"
+    },
+    {
+      "country": "Singapore",
+      "length": "8",
+      "code": "+65"
+    },
+    {
+      "country": "Slovakia",
+      "length": "8",
+      "code": "+421"
+    },
+    {
+      "country": "Slovenia",
+      "length": "8",
+      "code": "+386"
+    },
+    {
+      "country": "Solomon Islands",
+      "length": "7",
+      "code": "+677"
+    },
+    {
+      "country": "Somalia",
+      "length": "9",
+      "code": "+252"
+    },
+    {
+      "country": "South Africa",
+      "length": "9",
+      "code": "+27"
+    },
+    {
+      "country": "South Sudan",
+      "length": "9",
+      "code": "+211"
+    },
+    {
+      "country": "Spain",
+      "length": "9",
+      "code": "+34"
+    },
+    {
+      "country": "Sri Lanka",
+      "length": "9",
+      "code": "+94"
+    },
+    {
+      "country": "Sudan",
+      "length": "9",
+      "code": "+249"
+    },
+    {
+      "country": "Suriname",
+      "length": "8",
+      "code": "+597"
+    },
+    {
+      "country": "Sweden",
+      "length": "8",
+      "code": "+46"
+    },
+    {
+      "country": "Switzerland",
+      "length": "8",
+      "code": "+41"
+    },
+    {
+      "country": "Syria",
+      "length": "9",
+      "code": "+963"
+    },
+    {
+      "country": "Taiwan",
+      "length": "9",
+      "code": "+886"
+    },
+    {
+      "country": "Tajikistan",
+      "length": "9",
+      "code": "+992"
+    },
+    {
+      "country": "Tanzania",
+      "length": "9",
+      "code": "+255"
+    },
+    {
+      "country": "Thailand",
+      "length": "9",
+      "code": "+66"
+    },
+    {
+      "country": "Togo",
+      "length": "8",
+      "code": "+228"
+    },
+    {
+      "country": "Tokelau",
+      "length": "7",
+      "code": "+690"
+    },
+    {
+      "country": "Tonga",
+      "length": "7",
+      "code": "+676"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "length": "7",
+      "code": "+1-868"
+    },
+    {
+      "country": "Tunisia",
+      "length": "8",
+      "code": "+216"
+    },
+    {
+      "country": "Turkey",
+      "length": "10",
+      "code": "+90"
+    },
+    {
+      "country": "Turkmenistan",
+      "length": "9",
+      "code": "+993"
+    },
+    {
+      "country": "Tuvalu",
+      "length": "7",
+      "code": "+688"
+    },
+    {
+      "country": "Uganda",
+      "length": "9",
+      "code": "+256"
+    },
+    {
+      "country": "Ukraine",
+      "length": "9",
+      "code": "+380"
+    },
+    {
+      "country": "United Arab Emirates",
+      "length": "9",
+      "code": "+971"
+    },
+    {
+      "country": "United Kingdom",
+      "length": "10",
+      "code": "+44"
+    },
+    {
+      "country": "United States",
+      "length": "10",
+      "code": "+1"
+    },
+    {
+      "country": "Uruguay",
+      "length": "9",
+      "code": "+598"
+    },
+    {
+      "country": "Uzbekistan",
+      "length": "9",
+      "code": "+998"
+    },
+    {
+      "country": "Vanuatu",
+      "length": "7",
+      "code": "+678"
+    },
+    {
+      "country": "Vatican City",
+      "length": "8",
+      "code": "+39"
+    },
+    {
+      "country": "Venezuela",
+      "length": "10",
+      "code": "+58"
+    },
+    {
+      "country": "Vietnam",
+      "length": "9",
+      "code": "+84"
+    },
+    {
+      "country": "Yemen",
+      "length": "9",
+      "code": "+967"
+    },
+    {
+      "country": "Zambia",
+      "length": "9",
+      "code": "+260"
+    },
+    {
+      "country": "Zimbabwe",
+      "length": "9",
+      "code": "+263"
+    }  
+]
