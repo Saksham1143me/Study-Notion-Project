@@ -38,9 +38,26 @@ function ReviewSlider () {
    },[])
   return (
     <div className="text-white w-11/12 h-full">
-    <div className="my-[50px] h-[184px] max-w-maxContentTab lg:max-w-maxContent">
+    <div className="my-[50px] h-[184px]  max-w-maxContentTab lg:max-w-maxContent">
       <Swiper
-        slidesPerView={4}
+        breakpoints={{
+          // When window width is >= 320px
+          320: {
+            slidesPerView: 1,
+          },
+          // When window width is >= 480px
+          480: {
+            slidesPerView: 2,
+          },
+          // When window width is >= 768px
+          768: {
+            slidesPerView: 3,
+          },
+          // When window width is >= 1024px
+          1024: {
+            slidesPerView: 4,
+          },
+        }}
         spaceBetween={25}
         loop={true}
         freeMode={true}
@@ -49,7 +66,7 @@ function ReviewSlider () {
           disableOnInteraction: false,
         }}
         modules={[FreeMode, Pagination, Autoplay]}
-        className="w-full "
+        className="w-full"
       >
         {reviews.map((review, i) => {
           return (

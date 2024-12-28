@@ -24,7 +24,7 @@ function Home () {
             </div>
         </div>
         </NavLink>
-        <div className="w-fit flex gap-1 text-4xl text-center font-semibold mt-7">
+        <div className="w-fit flex sm:flex-row flex-col gap-1 text-4xl text-center font-semibold mt-7">
           Empower Your Future With
           <HighlightText text={"Coding Skills"}></HighlightText>
         </div>
@@ -118,8 +118,8 @@ function Home () {
          
         </div>
         <div className="mx-auto w-11/12 max-w-maxContent flex flex-col items-center justify-between ma-auto gap-7">
-             <div className=" flex gap-5 flex-row mb-10 mt-[95px]">
-                  <div className="text-4xl font-semibold w-[45%]">
+             <div className=" flex gap-5 sm:flex-row flex-col mb-10 mt-[95px]">
+                  <div className="text-4xl font-semibold sm:w-[45%] w-full">
                     Get The Skills You Need For a 
                     <HighlightText text={"Job that is in Demand"}></HighlightText>
                   </div>
