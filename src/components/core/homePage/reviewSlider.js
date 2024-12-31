@@ -29,7 +29,7 @@ function ReviewSlider () {
       } catch (error) {
         success = false
         console.log("CREATE RATING API ERROR............", error)
-        toast.error(error.response.data.message)
+        toast.error(error.response?.data.message)
       }
       toast.dismiss(toastId)
       return success
